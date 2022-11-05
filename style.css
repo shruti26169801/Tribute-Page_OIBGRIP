@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body,html{
+    height: 100%;
+    overflow: hidden;
+}
+.bg{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:150%;
+}
+.name{
+    justify-content: center;
+    margin-top: 2cm;
+    text-align: center;
+}
+.dob{
+    font-size: 30px;
+    font-family: 'Amiri', serif; 
+    
+}
+.name1{
+    margin-top: 1cm;
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Lobster', cursive;
+    margin-right: 7cm;
+}
+.para{
+   font-size: 40px;
+   font-family: 'Great Vibes', cursive;
+   margin-right: 7cm;
+}
+.ft{
+    margin-top: 5.5cm;
+    font-size: 15px;
+    font-family: 'Crimson Text', serif;
+}
